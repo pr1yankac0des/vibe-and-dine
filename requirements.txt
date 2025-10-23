@@ -1,0 +1,6 @@
+Flask
+kafka-python
+pyspark
+apache-airflow
+requests
+ngrok
